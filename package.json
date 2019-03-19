@@ -52,8 +52,8 @@
     "togeojson": "0.13.0",
     "corslite": "0.0.7",
     "wellknown": "0.4.2",
-    "brfs": "1.4.3",
-    "topojson": "1.6.26",
+    "brfs": "2.0.2",
+    "topojson": "3.0.2",
     "polyline": "0.2.0"
   },
   "devDependencies": {
