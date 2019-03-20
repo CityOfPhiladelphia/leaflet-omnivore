@@ -1,4 +1,4 @@
-# leaflet-omnivore
+# CityOfPhiladelphia's fork of leaflet-omnivore
 
 This was forked from [mapbox/leaflet-omnivore](https://github.com/mapbox/leaflet-omnivore) on 3/19/2019 by Andy Rothwell.  It is no longer updated by mapbox, and one of the dependencies of it's dependencies, [static-eval](https://www.npmjs.com/package/static-eval), was being pulled in as a very old version and it was a security risk according to GitHub.
 
