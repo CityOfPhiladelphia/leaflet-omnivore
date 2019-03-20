@@ -1,5 +1,19 @@
 # leaflet-omnivore
 
+This was forked from [mapbox/leaflet-omnivore](https://github.com/mapbox/leaflet-omnivore) on 3/19/2019 by Andy Rothwell.  It is no longer updated by mapbox, and one of the dependencies of it's dependencies, [static-eval](https://www.npmjs.com/package/static-eval), was being pulled in as a very old version and it was a security risk according to GitHub.
+
+In package.json the following dependencies were updated:
+* brfs 1.4.3 => brfs 2.0.2
+* topojson 1.6.26 => topojson 3.0.2
+
+This package is a dependency of [L.esri.WebMap](https://github.com/CityOfPhiladelphia/L.esri.WebMap), which is
+a dependency of [phila-vue-mapping](https://github.com/CityOfPhiladelphia/phila-vue-mapping).
+
+[L.esri.WebMap](https://github.com/CityOfPhiladelphia/L.esri.WebMap) is used by [layerboard](https://github.com/CityOfPhiladelphia/layerboard)
+to create an app out of an AGO Webmap.
+
+-----------------------------------------------------------------------------
+
 ![](https://farm8.staticflickr.com/7373/12376158164_e335b4e61d_b.jpg)
 
 [Leaflet](http://leafletjs.com/) supports the [GeoJSON](http://geojson.org/) format
