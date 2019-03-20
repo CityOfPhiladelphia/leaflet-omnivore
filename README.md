@@ -12,6 +12,8 @@ a dependency of [phila-vue-mapping](https://github.com/CityOfPhiladelphia/phila-
 [L.esri.WebMap](https://github.com/CityOfPhiladelphia/L.esri.WebMap) is used by [layerboard](https://github.com/CityOfPhiladelphia/layerboard)
 to create an app out of an AGO Webmap.
 
+There is more information about all forked repos in the [phila-vue-mapping wiki](https://github.com/CityOfPhiladelphia/phila-vue-mapping/wiki/ForkedDependencies)
+
 
 
 -----------------------------------------------------------------------------
