@@ -1,5 +1,5 @@
 {
-  "name": "@mapbox/leaflet-omnivore",
+  "name": "leaflet-omnivore",
   "version": "0.3.4",
   "description": "a geospatial format parser for Leaflet",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:mapbox/leaflet-omnivore.git"
+    "url": "git@github.com:CityOfPhiladelphia/leaflet-omnivore.git"
   },
   "files": [
     "index.js",
