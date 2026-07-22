@@ -2592,8 +2592,8 @@ jade@0.26.3:
     mkdirp "0.3.0"
 
 js-yaml@3.x:
-  version "3.12.2"
-  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.12.2.tgz#ef1d067c5a9d9cb65bd72f285b5d8105c77f14fc"
+  version "3.15.0"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.15.0.tgz#586e5214eafe3e893756a41e979b50d89d3e4a67"
   dependencies:
     argparse "^1.0.7"
     esprima "^4.0.0"
